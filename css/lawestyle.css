@@ -1,0 +1,512 @@
+*{
+    list-style: none  
+}
+.logo{
+    height: 60px;
+}
+.title{
+    color: #B99B5F ;
+    font-weight: 600;
+    font-family: 'Lora', serif;
+    font-size: 40px;
+}
+.img-top{
+    border-radius: 0px;
+}
+.call{
+    color: white;
+    font-size: 25px;
+    
+}
+.blue{
+  background-color:#223555;
+}
+
+
+.white{
+background-color: white;
+}
+.number{
+    color:  #B99B5F ;
+    font-size: 13px;
+}
+.card{
+    box-shadow: 0 4px 16px #efefef;
+}
+.fa-phone:before {
+    color: #B99B5F;
+    content: "\f095";
+    /* font-size: 40px; */
+}
+.icons{
+    color:  #B99B5F ;  
+    
+}
+.phone{
+    color: #B99B5F ;
+}
+.white-icon{
+    color: white;
+}
+
+.legal-text1{
+    color: white;
+    font-family: 'Lora', serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+.legal-text2{
+    color: white;
+    font-size: 14px;
+}
+.cardd{
+    background-color:#223555 ;
+}
+.carddd{
+    background-color: #B99B5F   ;
+}
+.gold {
+    font-size: 16px;
+    display: block;
+    padding: .5rem 1rem;
+    color : #B99B5F;
+    font-family: 'Lora', serif;
+}
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+    color:#223555 ;
+    font-size: 16px;
+    font-family: 'Lora', serif;
+}
+.welcome{
+    color: white;
+    font-weight: 400;
+}
+.most{
+    color: #B99B5F ;
+    font-family: 'Lora', serif;
+    font-weight: 600;
+    font-size: 60px;
+}
+   
+.learn{
+    background-color:#B99B5F ;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 5px;
+    border-radius: 1px solid #b99b5f;
+}
+.foot{
+   background-color: #1D2D47;
+   
+}
+.lorem{
+color:white;
+}
+.icon{
+    color:white;
+}
+.list{
+    color:white;
+}
+.content1{
+    color: white;
+    font-weight: 200;
+    font-size: 14px;
+}
+.our{
+    font-family: 'Lora', serif;
+    color: #223555;
+    font-weight: 600;
+}
+.quotes1{
+    color:#B99B5F ;
+    font-size: 14px;
+}
+.quotes2{
+    color:#B99B5F ;
+    font-size: 15px;
+    
+}
+.content2{
+    font-size:14px ;
+}
+.section2{
+    background-color:#223555 ;
+}
+.icons2{
+    color:#B99B5F ;
+    /* margin-top: 12px; */
+
+    
+}
+
+.text1{
+    font-size: 40px;
+    color: white;
+    font-family: 'Lora', serif;
+    font-weight: 600;
+}
+.text2{
+    color:#B99B5F;
+    font-size: 13px;
+}
+.card-icon{
+    color:#B99B5F ;
+    font-size: 13px;
+}
+.line {
+    align-items: center;
+    margin: 1em -1em;
+}
+.one-line:before, .one-line:after {
+    background:#B99B5F ;
+    
+}
+.line:before, .line:after {
+    height: 1px;
+    margin: 0 1em;
+}
+.divider:before, .divider:after {
+    content: "";
+    flex: 1;
+}
+.divider {
+    display: flex;
+    width: 20%;
+    align-items: center;
+}
+.laws{
+    font-size: 14px;
+    color: black;
+    font-weight: 400;
+}
+
+.seperator{
+    height: 2px;
+    width: 23px;
+    background-color: #B99B5F;
+    text-align: end;   
+}
+.attorney{
+flex: 1 1 auto;
+
+}
+.card-text{
+    font-size: 16px;
+    font-family: 'Lora', serif;
+    font-weight: 400;
+   
+}
+.title1{
+    color: #B99B5F;
+    font-weight: 600;
+    font-family: 'Lora', serif;
+    font-size: 30px;
+}
+.cards-text{
+    font-size: 16px;
+    font-family: 'Lora', serif;
+    font-weight: 400;
+    color:#B99B5F ;
+}
+.seperator2{
+    height: 1px;
+    
+    background-color: #B99B5F;
+    text-align: end;  
+    font-weight: 100;
+}
+.mini{
+    height:40px;
+}
+.card-title{
+    color:#B99B5F;
+    font-size: 20px;
+    font-family: 'Lora', serif;
+    font-weight: 600;
+}
+.cards-title{
+    color:#223555;
+    font-size: 23px;
+    font-family: 'Lora', serif;
+    font-weight: 500;
+}
+.heading{
+    color: #B99B5F;
+    font-family: 'Lora', serif;
+    font-weight: 600;
+}
+.card-body{
+    background-color: whitesmoke;
+}
+.heading2{
+    color: #223555;
+    font-family: 'Lora', serif;
+    font-weight: 600;
+}
+.foot-content{
+    color: white;
+    font-size: 14px;
+}
+.footer-title{
+    color:#B99B5F ;
+    font-family: 'Lora', serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+.count1{
+    padding-left: 5rem;
+}
+.logo1{
+    text-align: right;
+}
+.contact{
+    color: white;
+    font-size: 14px;
+}
+.contact i{
+    color:#B99B5F ;
+    font-size: 15px;
+    
+}
+.quote{
+    color:#B99B5F ;
+}
+.foot p{
+    line-height: 20px;
+}
+.foot-icon{
+    color: white;
+   
+}
+.gold-icon{
+    color: #B99B5F;
+}
+.icon-button{
+    background-color:#B99B5F;
+    padding:7px 10px;
+    border-radius: 5px;
+}
+.client-text {
+    color: #B99B5F;
+    font-family: 'Lora', serif;
+    font-size: 17px;
+}
+.attorney-button{
+    background-color: #223555;
+    padding:7px 10px;
+    border-radius: 5px;
+}
+.client{
+    border-radius: 50%;
+}
+.info i{
+    color:#B99B5F ;
+    font-size: 15px; 
+}
+.client-heading{
+    color:#B99B5F ; 
+    font-size: 22px; 
+    font-family: 'Lora', serif;
+    font-weight: 600;
+    padding-bottom: 0px;
+}
+.business{
+    color: white;
+    font-size: 14px;
+}
+/* .fa-balance-scale:after{
+    content: "\f24e";
+    font-size: 60px;
+} */
+.info{
+    color: white;
+    font-size: 15px;
+    line-height: 30px;
+}
+.seperator1{
+    height: 1px;
+    width: 28px;
+    background-color: #B99B5F;
+    text-align: end;  
+    font-weight: 100;
+}
+.footicon{
+color: #223555;
+}
+.navbar-toggler{
+    color: black;
+}
+.join{
+    background-color:#223555 ;
+}
+.free-button{
+    background-color:#B99B5F ;
+ border-radius: 5px;
+ color: white;
+}
+.freebutton{
+    text-align: right;
+}
+
+.logos{
+    background-color: #B99B5F;
+}
+.practice{
+    justify-content: center;
+}
+.box{
+    width: 19rem;
+}
+.lawyers{
+    width: 18rem;
+}
+.create{
+    height:500px;
+}
+.news{
+    justify-content: center;
+}
+.joint{
+    transform:translateY(-122px);
+}
+/* .logo1{
+    text-align: center;
+} */
+
+
+@media (min-width: 320px) and (max-width: 768px) {
+   .joint{
+        margin-top: 87px;
+   }
+      .box{
+       width:19rem;
+       
+   } 
+   .area{
+    padding-left: 1.5rem;
+   }  
+   .call{
+       text-align: center;
+   }
+   .phonenumber{
+       text-align:center;
+   }
+   .divider{
+       justify-content: center;
+        display: flex;
+        width: 60%;
+        align-items: center;
+    
+   }
+.man{
+    width:300px;
+    
+} 
+.logo {
+    margin-left: 50px;
+
+} 
+.seperator2 {
+    width: 250px;
+} 
+.title{
+    font-size: 30px;
+    text-align: center;
+}
+.freebutton{
+    text-align: left;
+}
+.lawyers {
+    height: 116px;
+    width: 170px;
+}
+.free-button{
+  margin-bottom: 20px;
+}
+.icon-button{    margin-left:0px;
+    margin-right: 0px;
+}
+.doe{
+    text-align: center;
+}
+.jessica{
+    text-align: center;
+}
+.logo1{
+    text-align: center;
+}
+.logo2{
+    text-align: center;
+}
+.cardd{
+    margin-right: 1rem!important;
+}
+.carddd{
+    margin-right: 1rem!important;
+}
+
+
+}
+@media (min-width: 768px) and (max-width: 1030px) {
+    .phone{
+        margin-top: 12px;
+    }
+    
+    .box {
+        width: 13rem;
+    }
+    .logo1{
+        text-align: center;
+    }
+    
+    .man {
+        margin-top: 30px;
+        width: 330px;
+    }
+    .card{
+        margin-bottom: 1px;
+    }
+    .footer-title{
+        margin-top: 30px;
+    }
+.jessica{
+    margin-left: 30px;
+}
+.cards-title{
+    font-size: 22px;
+}
+.cards-text{
+    font-size: 16px;
+
+}
+.title1{
+    font-size: 28px;
+}
+.call{
+    font-size: 18px;
+    padding-top: 8px;
+}
+.text2 {
+    
+    font-size: 11px;
+}
+.top-icons{
+    margin-top: .5rem!important;
+}
+.free-button{
+    margin-top: 0px;
+}
+}
+
+@media (min-width: 375px) and (max-width: 425px) {
+    .box{
+        width:23rem;
+    }
+}
+@media (min-width: 425px) and (max-width: 767px) {
+    .box{
+        width:25rem;
+        }
